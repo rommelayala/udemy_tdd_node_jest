@@ -1,0 +1,18 @@
+{
+  "name": "test-tdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rommel",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
